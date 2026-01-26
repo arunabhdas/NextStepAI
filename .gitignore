@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+.svelte-kit/
+dist/
+venv/
+.venv/
